@@ -14,6 +14,7 @@ The recruiter could then visulize the ranking results for the departements.
 
 ![image](https://github.com/FarahOuesleti/1_Skill_Matching_Application/assets/96914579/f8e6ba47-4fdb-4842-b499-06e3929f3b15)
 
-![Uploading image.png…]()
+![image](https://github.com/FarahOuesleti/1_Skill_Matching_Application/assets/96914579/84565d89-be29-4f47-9e11-2b5074b5ad78)
+
 
 
