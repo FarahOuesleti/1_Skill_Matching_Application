@@ -9,7 +9,11 @@ The recruiter will afterwards add candidates, their identifiers as well as their
 
 The recruiter could then visulize the ranking results for the departements.
 
-![image](https://github.com/FarahOuesleti/Dashboard-RH/assets/96914579/d9cbbded-2109-4757-b1e5-7cc81003cdfa)
+![image](https://github.com/FarahOuesleti/1_Skill_Matching_Application/assets/96914579/23960ab0-9e83-4567-b25d-7de5c1222e3b)
 
-![image](https://github.com/FarahOuesleti/Dashboard-RH/assets/96914579/287b8e46-ae81-4074-b99f-55c5a1f18478)
+
+![image](https://github.com/FarahOuesleti/1_Skill_Matching_Application/assets/96914579/f8e6ba47-4fdb-4842-b499-06e3929f3b15)
+
+![Uploading image.png…]()
+
 
